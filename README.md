@@ -28,8 +28,6 @@ Otherwise, this is a step-by-step guide on how to build and run the Code Challen
  build flixin-code-challenge jar file. It will successfully build atm-0.0.1-SNAPSHOT.jar file in target directory)
 
 Besides, you can run the project by using Docker
-- docker-compose -f docker-compose.yml build
-- docker-compose -f docker-compose.yml up -d
 
  # 2.Run 
  - open http://localhost:8080
